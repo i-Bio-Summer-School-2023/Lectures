@@ -8,4 +8,4 @@ Morning lectures were organized as follows:
 * Thursday: Time series analysis and Markov models with Remi Monasson and Georges Debregeas
 * Friday: Model selection and optimization with Benoit Girard
 
-![Summer school flyer]()
+![Summer school flyer](https://github.com/i-Bio-Summer-School-2023/Lectures/blob/main/i-Bio-2023-Summer-School-Advanced-Processing-Tools-for-Behavioral-and-Neurophysiological-Recordings.jpg)
