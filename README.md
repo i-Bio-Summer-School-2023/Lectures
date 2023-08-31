@@ -1,5 +1,5 @@
 # Lectures
-This series of lectures was given during the i-Bio summer school on **"Advanced Computational Analysis for Behavioral and Neurophysiological Recordings"**, which took place in Banyuls-sur-Mer, August 6-12 2023.
+This series of lectures was given during the [i-Bio](http://ibio.sorbonne-universite.fr/) summer school on **"Advanced Computational Analysis for Behavioral and Neurophysiological Recordings"**, which took place in Banyuls-sur-Mer, August 6-12 2023.
 
 Morning lectures were organized as follows:
 * Monday: Presentations from the participants.
@@ -8,4 +8,6 @@ Morning lectures were organized as follows:
 * Thursday: Time series analysis and Markov models with Remi Monasson and Georges Debregeas
 * Friday: Model selection and optimization with Benoit Girard
 
-![Summer school flyer]()
+In the afternoons, practicals were organized into two groups that worked on different datasets. The corresponding code and tutorials can be found in the following repositories: [fish group](https://github.com/i-Bio-Summer-School-2023/Practicals-fishgroup), [rat group](https://github.com/i-Bio-Summer-School-2023/Practicals-ratgroup).
+
+![Summer school flyer](https://github.com/i-Bio-Summer-School-2023/Lectures/blob/main/i-Bio-2023-Summer-School-Advanced-Processing-Tools-for-Behavioral-and-Neurophysiological-Recordings.jpg)
